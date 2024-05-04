@@ -1,4 +1,4 @@
-# employee-timesheet
+# ClockySheet
 <p align="center">
   <a href=""D:\project1\timesheet\public\clock-logo (1).jpg"" rel="noopener" target="_blank"><img width="400" src="timesheet_logo.png" alt="Timesheet logo"></a>
 </p>

@@ -1,6 +1,7 @@
 # ClockySheet
 <p align="center">
    <a href="https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/b26f5e3b-be71-436d-aeb0-fe15959a2292" rel="noopener" target="_blank"><img width="400" src="timesheet_logo.png" alt="Timesheet logo"></a>
+   ![clock-logo (1)](https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/f54761f0-798f-48ef-b64b-fbcd1b2519fb)
   https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/b26f5e3b-be71-436d-aeb0-fe15959a2292
 </p>
 

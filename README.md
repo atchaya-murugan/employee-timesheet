@@ -3,6 +3,7 @@
    <a href="assets/clock-logo (1).jpg" rel="noopener" target="_blank"><img width="400" src="timesheet_logo.png" alt="Timesheet logo"></a>
    
 </p>
+![clock-logo (1)](https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/47364fe7-af41-471f-882f-323b01ffce8c)
 
 Timesheet is an application designed to streamline the management and access of daily work time. With a minimalist feature set and sleek design, it simplifies the process of tracking work hours, eliminating the need for manual time calculation. Start using Timesheet now to enhance your workflow efficiency.
 

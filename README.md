@@ -1,6 +1,6 @@
 # ClockySheet
 <p align="center">
-   <a href="employee-timesheet/assets/clock-logo (1).jpg" rel="noopener" target="_blank"><img width="400" src="timesheet_logo.png" alt="Timesheet logo"></a>
+   <a href="assets/clock-logo (1).jpg" rel="noopener" target="_blank"><img width="400" src="timesheet_logo.png" alt="Timesheet logo"></a>
    
 </p>
 

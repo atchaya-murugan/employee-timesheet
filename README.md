@@ -9,6 +9,7 @@ Timesheet is an application designed to streamline the management and access of 
 
 #### Table of Contents
 - **How to Use**
+- **How to Run**
 - **Development**
 - **Privacy**
 
@@ -22,9 +23,20 @@ Access the application by visiting the [Website](https://timesheet.js.org). Time
 - **Team:** The Team module empowers administrators to construct and manage cohesive project teams, fostering collaboration and synergy among team members. Administrators can create and customize team structures, adding members, groups, and establishing reminders to streamline communication and task delegation. This module facilitates efficient team coordination and cultivates a conducive environment for collective goal attainment.
 - **Timeoff:** The Timeoff module facilitates seamless management of employee leave requests, ensuring transparent and efficient leave allocation processes. Employees can effortlessly submit leave requests by selecting leave dates from an intuitive calendar interface and specifying the type of leave desired, including options such as Sick Leave, Casual Leave, or Annual Leave. This module provides administrators with an overview of available leave days, streamlining leave approval workflows and promoting workforce well-being and work-life balance.
 
+#### How to Run
+- **Step 1:** Open VS Code and open the project folder.
+- **Step 2:** Set Git Bash as default terminal, Open Terminal.
+- **Step 3:** Run " npm start " command for backend
+- **Step 4:** change the directory from src folder to backend folder by run the " cd backend " command.
+- **Step 5:** Run " npm start " command in the backend folder to run the backend.
+- **Step 6:** Open XAMPP server and start the Apache & Mysql in the XAMPP Control Panel.
 
 #### Development
 The application is scaffolded using create-react-app (CRA) with Typescript templating. Clone the Timesheet repository for custom development.
 
 #### Privacy
-Timesheet uses local storage to persist work hour lines and does not store any timesheet data on servers. Google Analytics is used to gather application usage insights.
+Timesheet prioritizes the privacy and security of your data. Here's how:
+
+- **Local Storage:** Timesheet uses local storage to persist work hour lines, ensuring that your data stays within your device and is accessible only to you. No timesheet data is stored on external servers.
+- **Server Storage:** User data, including timesheet information, is securely stored on a local server managed by XAMPP. This ensures that sensitive data is kept confidential and is accessible only to authorized users within your network.
+

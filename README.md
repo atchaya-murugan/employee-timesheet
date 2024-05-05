@@ -1,6 +1,7 @@
 # ClockySheet
 <p align="center">
-  ![clock-logo (1)](https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/6b628562-12ac-4d5b-9f21-4a6ad5ab408d)
+   <a href="https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/b26f5e3b-be71-436d-aeb0-fe15959a2292" rel="noopener" target="_blank"><img width="400" src="timesheet_logo.png" alt="Timesheet logo"></a>
+  https://github.com/atchaya-murugan/employee-timesheet/assets/139705786/b26f5e3b-be71-436d-aeb0-fe15959a2292
 </p>
 
 Timesheet is an application designed to streamline the management and access of daily work time. With a minimalist feature set and sleek design, it simplifies the process of tracking work hours, eliminating the need for manual time calculation. Start using Timesheet now to enhance your workflow efficiency.
